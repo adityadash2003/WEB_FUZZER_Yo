@@ -1,7 +1,7 @@
 # WEB_FUZZER_Yo
 # 🔥 WEB_FUZZER_YO - Next-Gen Web Vulnerability Scanner
 
-![Banner Preview](https://i.imgur.com/XYZ1234.png)
+![My Photo](./222.jpg)
 
 ## 🚀 Overview
 
