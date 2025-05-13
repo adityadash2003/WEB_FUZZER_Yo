@@ -1,5 +1,4 @@
-# WEB_FUZZER_Yo
-# 🔥 WEB_FUZZER_YO - Next-Gen Web Vulnerability Scanner
+# 🔥 WEB_FUZZER_YO 🦦
 
 ![My Photo](./222.jpg)
 
