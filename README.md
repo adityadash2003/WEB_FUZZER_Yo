@@ -78,7 +78,7 @@
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/WEB_FUZZER_YO.git
+git clone https://github.com/adityadash2003/WEB_FUZZER_Yo.git
 cd WEB_FUZZER_YO
 ```
 ## Setup
